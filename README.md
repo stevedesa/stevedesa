@@ -6,7 +6,7 @@
 
 - 📈 I'm currently working on enhancing my **Web Development and Python Skills**
 
-- 🤝🏻 I’m happy to collaborate on **C, C++, Python, Java, and Web Dev projects**
+- 🤝🏻 I’m happy to collaborate on **C, C++, Python, Java, and Web Dev Projects**
 
 - ✉️ You can reach out to me via: **stevenathandesa@gmail.com** or **www.linkedin.com/in/stevedesa**
 
