@@ -9,5 +9,6 @@
 - 🤝🏻 I’m happy to collaborate on **C, C++, Python, Java, and Web Dev projects**
 
 - ✉️ You can reach out to me via: **stevenathandesa@gmail.com** or **linkedin.com/in/stevedesa/**
+- 
 <p align="left">
 </p>
