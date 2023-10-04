@@ -10,7 +10,7 @@
 
 - ✉️ You can reach out to me via: **stevenathandesa@gmail.com** or **www.linkedin.com/in/stevedesa**
 
-- 🌐 Check out my Personal Portfolio Website (Still under construction:/): **www.stevedesa.netlify.app**
+- 🌐 Check out my Personal Portfolio Website: **www.stevedesa.netlify.app**
 
 <p align="left">
 </p>
