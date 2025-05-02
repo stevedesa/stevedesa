@@ -1,8 +1,8 @@
 - 🙋🏻‍♂️ Hi, you've reached the GitHub Repository of **Steve Nathan de Sa**!
 
-- 🏫 I'm a Computer Science Major studying at the **South Dakota School of Mines and Technology**
+- 🏫 I'm a Computer Science Major **South Dakota Mines**
 
-- 🤖 I’m Passionate about **Artificial Intelligence, Machine Learning, Application Development and Robotics**
+- 🤖 I’m Passionate about **Application Development, and Robotics**
 
 - 📈 I'm currently working on learning more about **AI/ML Processes**
 
